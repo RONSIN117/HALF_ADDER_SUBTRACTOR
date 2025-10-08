@@ -57,6 +57,7 @@ Developed by: RegisterNumber:*/
 **RTL Schematic** 
 HALF ADDER
 <img width="1918" height="1078" alt="EXP03" src="https://github.com/user-attachments/assets/5638177a-0c47-40cc-999b-68f4996c6b8b" />
+
 HALF SUBTRACTOR
 <img width="1918" height="1078" alt="EXP3 HALF SUBTRACTOR" src="https://github.com/user-attachments/assets/8c256cce-0e14-4cfd-900c-f2928645efcd" />
 
@@ -65,6 +66,7 @@ HALF SUBTRACTOR
 **Output/TIMING Waveform**
 HALF ADDER 
 <img width="1918" height="1078" alt="EXP03 clock diagram" src="https://github.com/user-attachments/assets/280b8349-4cc5-4b7c-aa9f-79a6f58b9144" />
+
 HALF SUBTRACTOR 
 <img width="1918" height="1078" alt="EXP3 HALF SUBTRACTOR  clock diagram" src="https://github.com/user-attachments/assets/0f1dd0a7-e239-41ee-b6e0-e3ea03e96934" />
 **Result:**
